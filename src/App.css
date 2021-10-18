@@ -1,0 +1,21 @@
+.body{
+     background-color: black ;
+     font-size: large;
+
+}
+
+.logosize{
+     height:60px;
+     width:60px;
+}
+
+@media screen and (max-width:700px) {
+     .body{
+     background-color: black ;
+     font-size: small;
+     }
+     /* .logosize{
+          height:40px;
+          width:40px;
+     } */
+}
