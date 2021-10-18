@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.efb89dca.chunk.css",
+    "main.js": "/my-app/static/js/main.ec0cef04.chunk.js",
+    "main.js.map": "/my-app/static/js/main.ec0cef04.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.17a7feb2.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.17a7feb2.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/my-app/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.26a57985.chunk.js": "/my-app/static/js/2.26a57985.chunk.js",
+    "static/js/2.26a57985.chunk.js.map": "/my-app/static/js/2.26a57985.chunk.js.map",
+    "static/js/3.6bdb6819.chunk.js": "/my-app/static/js/3.6bdb6819.chunk.js",
+    "static/js/3.6bdb6819.chunk.js.map": "/my-app/static/js/3.6bdb6819.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/my-app/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.efb89dca.chunk.css.map": "/my-app/static/css/main.efb89dca.chunk.css.map",
+    "static/js/2.26a57985.chunk.js.LICENSE.txt": "/my-app/static/js/2.26a57985.chunk.js.LICENSE.txt",
+    "static/media/ETHAN.808eebbd.jpg": "/my-app/static/media/ETHAN.808eebbd.jpg",
+    "static/media/JJ.5b391bb9.JPG": "/my-app/static/media/JJ.5b391bb9.JPG",
+    "static/media/Miniminter.698e3b1f.jpg": "/my-app/static/media/Miniminter.698e3b1f.jpg",
+    "static/media/gaming.f978207a.png": "/my-app/static/media/gaming.f978207a.png",
+    "static/media/info1.7d2ae2d3.jpg": "/my-app/static/media/info1.7d2ae2d3.jpg",
+    "static/media/info2.681387d5.jpg": "/my-app/static/media/info2.681387d5.jpg",
+    "static/media/info3.434be528.jpg": "/my-app/static/media/info3.434be528.jpg",
+    "static/media/josh.470bab4a.jpg": "/my-app/static/media/josh.470bab4a.jpg",
+    "static/media/lol.5a2d71f1.png": "/my-app/static/media/lol.5a2d71f1.png",
+    "static/media/Intro.css": "/my-app/static/media/sidemen.e2974781.jpg",
+    "static/media/tobi.f50d86a3.jpg": "/my-app/static/media/tobi.f50d86a3.jpg",
+    "static/media/tshirt.185ec576.webp": "/my-app/static/media/tshirt.185ec576.webp",
+    "static/media/video.e82e854e.png": "/my-app/static/media/video.e82e854e.png",
+    "static/media/vikram.9148bee7.png": "/my-app/static/media/vikram.9148bee7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a7feb2.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.26a57985.chunk.js",
+    "static/css/main.efb89dca.chunk.css",
+    "static/js/main.ec0cef04.chunk.js"
+  ]
+}
